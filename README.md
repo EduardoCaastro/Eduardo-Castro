@@ -2,6 +2,8 @@
 
 -Cursando 7° periodo em Engenharia de Software;</br>
 -Curso de Desenvolcer fullstack em andamento;</br>
+-Inglês intermediário (principalmente Writing and Reading);
+-Conhecimento básico BI e SQL;
 -Conhecimento HTML, CSS;</br>
 -Adiquirindo conhecimento JavaScript;</br>
 -Adiquirindo conhecimento NodeJs;</br>
